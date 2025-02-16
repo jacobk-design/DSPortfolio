@@ -12,7 +12,7 @@ Experience: Worked in financial modeling, healthcare analytics, A/B testing, and
 
 - Programming: Python, SQL, PySpark
 
-- Machine Learning: TensorFlow, Keras, PyTorch, Scikit-Learn
+- Machine Learning: TensorFlow, Keras, PyTorch, Scikit-Learn, XGBoost
 
 - Big Data & Cloud:  Azure, Databricks, Snowflake
 
@@ -24,3 +24,4 @@ Experience: Worked in financial modeling, healthcare analytics, A/B testing, and
 
 - Segmenting Health Insurance Member's Medical Pathways Using UMAP and HDBSCAN
 - Outlier Detection with Guassian Mixture Models
+- Financial Modeling with XGBoost and Demonstrated Pyspark
