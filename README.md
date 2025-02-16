@@ -1,6 +1,6 @@
 ## Data Science Portfolio
 
-Welcome to my GitHub Portfolio! I'm a Senior Data Scientist with over 7 years of experience, specializing in machine learning, statistical modeling, big data processing, and cloud computing. This repository highlights my expertise through various projects across finance, healthcare, and machine learning applications.
+Welcome to my GitHub Portfolio! I'm a Data Scientist with over 7 years of experience, specializing in machine learning, statistical modeling, big data processing, and cloud computing. This repository highlights my expertise through various projects across finance, healthcare, and machine learning applications.
 
 ### About Me
 
