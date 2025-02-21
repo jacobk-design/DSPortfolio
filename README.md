@@ -22,6 +22,6 @@ Experience: Worked in financial modeling, healthcare analytics, A/B testing, and
 
 ### Featured Projects
 
-- Segmenting Health Insurance Member's Medical Pathways Using UMAP and HDBSCAN
+- Segmenting customers Using UMAP and HDBSCAN
 - Outlier Detection with Guassian Mixture Models
 - Financial Modeling with XGBoost and Demonstrated Pyspark
